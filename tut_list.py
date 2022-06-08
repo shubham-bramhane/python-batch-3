@@ -1,5 +1,8 @@
 # # list 
 # # list is datatype which is used to stored the diferent datatype 
+# list is denoted by [] square bracket
+
+
 
 # # mylist=[10,20.5,"shubham",10]
 # # mylist[1]="shivani"
