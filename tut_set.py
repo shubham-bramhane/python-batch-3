@@ -4,8 +4,9 @@
 # # # set not allow duplicate
 
 
-
-# # # print(type(name))
+name={'shubham','rahul','faiz','pragya'}
+print(name)
+print(type(name))
 
 # # # name.add('mohan')
 # # # print(name)
@@ -29,17 +30,22 @@
 
 
 
-
 # # # print(name)
 
 
 
-# from asyncore import loop
+# # from asyncore import loop
 
 
-# name={10,10,20}
+# name={10,10,10,10,10,10,20}
 # print(name)
 # print(len(name))
+# list=[10,10,10,10,10]
+
+
+# print(list)
+
+
 
 
 # #create a set having 10 value 
@@ -47,4 +53,26 @@
 # # # remove the element
 # # print in loop
 # # find the length
+
+
+
+
+# pragya='1'
+# PRAGYA='30'
+# Pragya='10'
+
+
+# print(pragya)
+# print(Pragya)
+# print(PRAGYA)
+
+# print(id(pragya))
+# print(id(Pragya))
+# print(id(PRAGYA))
+
+
+
+# name={'pragya','Pragya','PRAGYA'}
+# print(name)
+
 
