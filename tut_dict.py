@@ -140,9 +140,21 @@
 #     print(students[i]['name'])
 
 
+students={
+    "student1":{
+        "name":"shubham",
+        "address":"ghugus"
+    }
+}
 
 
 
+print(students)
+print(type(students))
+
+
+studentslist={'nilesh','shubham'}
+print(type(studentslist))
 
 
 
