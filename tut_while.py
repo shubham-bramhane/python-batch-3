@@ -30,7 +30,11 @@
 
 # for normal printing 
 
-star="*"
+# from multiprocessing import Condition
+# from tkinter.tix import DECREASING
+
+
+# star="*"
 
 # i=1
 
@@ -119,16 +123,91 @@ a=[10,20,30,40,50,60,70]
 # a 
 # a b
 # a b c 
-# a b c d 
+# # a b c d 
 
-i=0
-while i<len(a):
-    j=0
-    while j<=i:
-        print(a[j],end=' ')
-        j=j+1
-    print()
-    i=i+1
+# i=0
+# while i<len(a):
+#     j=0
+#     while j<=i:
+#         print(a[j],end=' ')
+#         j=j+1
+#     print()
+#     i=i+1
 
 
 # create a program for reverse tringle 
+
+# 30 20 10
+# 30 20
+# 30
+
+
+# i=3
+# while i>=1:
+#     j=1
+#     num=30
+#     while j<=i:
+#         print(num,end=' ')
+#         num=num-10
+#         j=j+1
+#     print()
+#     i=i-1
+#                        j=5 j=4 j=3 j=2 j=1 
+
+# i=1                    50 40 30 20 10
+# i=2                    50 40 30 20
+# i=3                    50 40 30 
+# i=4                    50 40
+# i=5                    50
+
+
+
+
+# i=1
+# while i<=5:
+#     j=5
+#     num=50
+#     while j>=i:
+#         print(num,end=' ')
+#         num=num-10
+#         j=j-1
+#     print()
+#     i=i+1
+
+
+
+# *
+# **
+# ***
+# ****
+
+# initilization
+# Condition
+# increment/DECREAment
+
+
+
+
+
+
+# i=1
+# while i<=5:
+#     print("*"*i)
+#     i=i+1
+
+# i=1
+# while i<=5:
+#     j=5
+#     star="*"
+#     while j>=i:
+#         print(star,end=' ')
+#         j=j-1
+#     print()
+#     i=i+1
+
+
+
+# for i in range(10):
+#     print("*"*i)
+
+
