@@ -1,6 +1,11 @@
 
 
 
+class rectangle():
+    def __init__(self) -> None:
+        pass
+
+
 def add(a,b):
     result=a+b
     return result

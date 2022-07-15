@@ -147,4 +147,7 @@ num=50
 for i in range(1,11):
     print(num,end=' ')
     num=num+50
- 
+
+
+
+
